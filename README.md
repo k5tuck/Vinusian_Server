@@ -1,18 +1,19 @@
 # Vinusian
 
 ## Table of Contents
+
 - [Description](#description)
-    - [Future Plans](#future-plans)
-    - [Technologies Used](#technologies-used)
+  - [Future Plans](#future-plans)
+  - [Technologies Used](#technologies-used)
 - [Screenshots](#screenshots)
 - [How To Use](#how-to-use)
 - [Contributors](#contributors)
 - [License](#license)
 
 ## Description
-Vinusian is a Nonprofit Exchange app that will allow 
-nonprofits around the world to accept and exchange 
-money for their local currency. 
+
+Vinusian is a Database of Cyber and Network Security definitions, vulnerabilites, and attack methods. The primary purpose of Vinusian
+is to act as an API for the [Poseidon](https://github.com/k5tuck/Poseidon) app.
 
 ### Future Plans
 
