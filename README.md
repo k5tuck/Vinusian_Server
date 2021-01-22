@@ -1,4 +1,4 @@
-# Vinusian
+# Vinusian Server
 
 ## Table of Contents
 
@@ -11,9 +11,6 @@
 - [License](#license)
 
 ## Description
-
-Vinusian is a Database of Cyber and Network Security definitions, vulnerabilites, and attack methods. The primary purpose of Vinusian
-is to act as an API for the [Poseidon](https://github.com/k5tuck/Poseidon) app.
 
 ### Future Plans
 
