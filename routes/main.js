@@ -1,6 +1,8 @@
 const express = require("express");
 const router = express.Router();
 
-router.use("/", require("./logins")).use("/mem", require("./main"));
+router.get("/", (req, res) => {
+  res.send();
+});
 
 module.exports = router;

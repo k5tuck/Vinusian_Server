@@ -7,8 +7,8 @@ const morgan = require("morgan");
 const es6Renderer = require("express-es6-template-engine");
 const session = require("express-session");
 const FileStore = require("session-file-store")(session);
-const server = http.createServer(app);
 const app = express();
+const server = http.createServer(app);
 
 const logger = morgan("dev");
 const hostname = "localhost";
