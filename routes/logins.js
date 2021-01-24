@@ -93,16 +93,16 @@ router
     // } else {
     //   res.redirect(401, "/");
     // }
-  })
-  .get("/", (req, res) => {
-    res.send(`
-      <a href="/login/github">
-        <button>Login with Github</button>
-      </a>
-      <br>
-      <a href="/login/linkedin">
-        <button>Login with LinkedIn</button>
-      </a>`);
   });
+// .get("/", (req, res) => {
+//   res.send(`
+//     <a href="/login/github">
+//       <button>Login with Github</button>
+//     </a>
+//     <br>
+//     <a href="/login/linkedin">
+//       <button>Login with LinkedIn</button>
+//     </a>`);
+// });
 
 module.exports = router;
